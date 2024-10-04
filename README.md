@@ -2,7 +2,7 @@
 Excel exercises created to easily understand and analyze Machine Learning algorithms through simple examples
 
 
-1_Backpropagation
+** 1_Backpropagation
 
 Reference: 
 A Step by Step Backpropagation Example. Matt Mazur. 17 Mar 2015
