@@ -2,6 +2,7 @@
 Excel exercises created to easily understand and analyze Machine Learning algorithms through simple examples
 
 
+
 **1_Backpropagation**
 
 Reference: 
@@ -22,6 +23,7 @@ Excel exercise:
 [PCA2.xlsx](https://github.com/user-attachments/files/17257112/PCA2.xlsx)
 
 
+
 **3_Convolutional Neural Network & Image recognition**
 
 Reference:
@@ -29,6 +31,7 @@ https://www.youtube.com/watch?v=2-Ol7ZB0MmU
 
 Excel exercise:
 [Convolutional nn.xlsx](https://github.com/user-attachments/files/17257129/Convolutional.nn.xlsx)
+
 
 
 **4_K-Means - Customer Segmentation K Means Example**
@@ -40,6 +43,7 @@ Excel exercise:
 [K-means clustering in Excel.xlsx](https://github.com/user-attachments/files/17257172/K-means.clustering.in.Excel.xlsx)
 
 
+
 **5_K-Means - K-means Cluster Analysis**
 
 Reference:
@@ -48,7 +52,8 @@ https://real-statistics.com/multivariate-statistics/cluster-analysis/k-means-clu
 Excel exercise:
 [K-means cluster excel.xlsx](https://github.com/user-attachments/files/17257177/K-means.cluster.excel.xlsx)
 
-&ensp
+
+
 
 **6_Singular Value Decomposition (SDV)**
 
