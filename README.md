@@ -49,4 +49,21 @@ Excel exercise:
 [K-means cluster excel.xlsx](https://github.com/user-attachments/files/17257177/K-means.cluster.excel.xlsx)
 
 
+**6_Singular Value Decomposition (SDV)**
+
++Reference 1: See SDV worksheet+
+From Matrices to Insights — Exploring Singular Value Decomposition for Dimensionality Reduction. Sandhiyagiri. 31 Dec 2023
+https://medium.com/@sandhiyagiri03/from-matrices-to-insights-exploring-singular-value-decomposition-for-dimensionality-reduction-32cc8fe28c68
+
++Reference 2: See SDV Get V Worksheet
+Singular Value Decomposition (SVD) A Fast Track Tutorial. Dr. Edel Garcia. 11 Sep 2006
+https://cs.fit.edu/~dmitra/SciComp/Resources/singular-value-decomposition-fast-track-tutorial.pdf
+
++Reference 3: See SDV Get U & V worksheet
+https://www.studocu.com/en-us/document/san-jose-state-university/linear-algebra/singular-value-decomposition-svd-tutorial/102728747
+
+Excel exercise:
+[SVD calculations.xlsx](https://github.com/user-attachments/files/17261289/SVD.calculations.xlsx)
+
+
 
