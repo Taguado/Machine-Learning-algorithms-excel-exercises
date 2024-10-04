@@ -48,6 +48,7 @@ https://real-statistics.com/multivariate-statistics/cluster-analysis/k-means-clu
 Excel exercise:
 [K-means cluster excel.xlsx](https://github.com/user-attachments/files/17257177/K-means.cluster.excel.xlsx)
 
+&ensp
 
 **6_Singular Value Decomposition (SDV)**
 
