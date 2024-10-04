@@ -11,6 +11,7 @@ Excel exercise:
 [Backpropagation Neural network excel 2nd iteration.xlsx](https://github.com/user-attachments/files/17257053/Backpropagation.Neural.network.excel.2nd.iteration.xlsx)
 
 
+
 2_Principal Component Analysis
 Reference:
 https://www.gatevidyalay.com/category/subjects/pattern-recognition/
