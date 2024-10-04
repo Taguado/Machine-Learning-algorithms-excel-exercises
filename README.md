@@ -3,6 +3,7 @@ Excel exercises created to easily understand and analyze Machine Learning algori
 
 
 1_Backpropagation
+
 Reference: 
 A Step by Step Backpropagation Example. Matt Mazur. 17 Mar 2015
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
@@ -13,6 +14,7 @@ Excel exercise:
 
 
 2_Principal Component Analysis
+
 Reference:
 https://www.gatevidyalay.com/category/subjects/pattern-recognition/
 
@@ -21,6 +23,7 @@ Excel exercise:
 
 
 3_Convolutional Neural Network & Image recognition
+
 Reference:
 https://www.youtube.com/watch?v=2-Ol7ZB0MmU
 
@@ -29,6 +32,7 @@ Excel exercise:
 
 
 4_K-Means - Customer Segmentation K Means Example
+
 Reference:
 https://www.learnbymarketing.com/tutorials/k-means-clustering-by-hand-excel/
 
@@ -37,6 +41,7 @@ Excel exercise:
 
 
 5_K-Means - K-means Cluster Analysis
+
 Reference:
 https://real-statistics.com/multivariate-statistics/cluster-analysis/k-means-cluster-analysis/
 
