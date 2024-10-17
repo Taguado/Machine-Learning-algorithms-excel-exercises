@@ -76,3 +76,30 @@ Excel exercise:
 
 
 
+**7_Simple Neural Network examples**
+
+Reference:
+https://real-statistics.com/neural-networks/neural-networks-basic-concepts/
+by Charles Zaiontz
+
+Excel exercise:
+[Neural-Network-Examples_Charles Zaiontz.xlsx](https://github.com/user-attachments/files/17408493/Neural-Network-Examples_Charles.Zaiontz.xlsx)
+
+
+
+**8_Single layer Neural network**
+
+Reference:
+https://www.youtube.com/watch?v=fjfZZ6S1ad4
+
+Excel exercise:
+[Single layer NN.xlsx](https://github.com/user-attachments/files/17408540/Single.layer.NN.xlsx)
+
+
+**9_Deep Neural Network**
+
+Reference:
+https://www.youtube.com/watch?v=1zwnPt73pow
+
+Excel exercise:
+[Deep NN.xlsx](https://github.com/user-attachments/files/17408571/Deep.NN.xlsx)
