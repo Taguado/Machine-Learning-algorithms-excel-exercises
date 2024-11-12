@@ -103,3 +103,39 @@ https://www.youtube.com/watch?v=1zwnPt73pow
 
 Excel exercise:
 [Deep NN.xlsx](https://github.com/user-attachments/files/17408571/Deep.NN.xlsx)
+
+
+
+**10_Sparse Autoencoder**
+
+Reference:
+https://x.com/ProfTomYeh/status/1827102141263311006
+
+Excel exercise:
+[Sparse Autoencoder_Tom Yeh.xlsx](https://github.com/user-attachments/files/17716784/Sparse.Autoencoder_Tom.Yeh.xlsx)
+
+
+
+**11_Multilayer Perceptron**
+
+Reference:
+https://x.com/ProfTomYeh/status/1827337453839015953
+
+Excel exercise:
+[Multilayer Perceptron_Tom Yeh.xlsx](https://github.com/user-attachments/files/17716830/Multilayer.Perceptron_Tom.Yeh.xlsx)
+
+
+
+**12_Long-Short Term Memory - LSTM**
+
+Reference:
+https://www.youtube.com/watch?v=YCzL96nL7j0
+
+Excel exercise:
+[LSTM_Josh Starmer.xlsx](https://github.com/user-attachments/files/17716856/LSTM_Josh.Starmer.xlsx)
+
+
+
+
+
+
